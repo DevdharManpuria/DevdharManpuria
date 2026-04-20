@@ -12,8 +12,8 @@ Alongside core SDE preparation, I have recently started exploring quantitative f
 
 <h2>Competitive Programming</h2>
 
-* Codeforces: *Specialist (1530+)* — [https://codeforces.com/profile/DevdharManpuria](https://codeforces.com/profile/DevdGamer)
-* LeetCode: 430+ problems solved — [https://leetcode.com/DevdharManpuria](https://leetcode.com/u/DevGamesdtn/)
+* Codeforces: *Expert (1750)* — [https://codeforces.com/profile/DevdharManpuria](https://codeforces.com/profile/DevdGamer)
+* LeetCode: 450+ problems solved — [https://leetcode.com/DevdharManpuria](https://leetcode.com/u/DevGamesdtn/)
 
 
 <h2>Interests</h2>
