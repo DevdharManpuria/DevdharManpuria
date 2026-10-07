@@ -23,4 +23,4 @@ Alongside core SDE preparation, I have recently started exploring quantitative f
 * Quantitative and data-driven approaches
  
 
-LinkedIn: [www.linkedin.com/in/devdharmanpuria](https:www.linkedin.com/in/devdharmanpuria)
+LinkedIn: [www.linkedin.com/in/devdharmanpuria](https://www.linkedin.com/in/devdharmanpuria)
